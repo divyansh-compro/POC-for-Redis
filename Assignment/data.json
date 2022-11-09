@@ -1,0 +1,5 @@
+{
+    "key" : "myKey",
+    "value" : "Important Data",
+    "expireTime" : "10"
+}
